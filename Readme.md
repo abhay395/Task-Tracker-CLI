@@ -2,6 +2,8 @@
 
 A simple command-line tool for tracking your tasks efficiently. With Task-Tracker-CLI, you can easily add, delete, update, and mark tasks as "in-progress," "not-done," or "done." It's perfect for managing your daily activities directly from the terminal.
 
+[**Project Repository**](https://github.com/abhay395/Task-Tracker-CLI) 
+
 ## Table of Contents
 - [Features](#features)
 - [Add Task](#add-task)
