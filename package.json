@@ -1,0 +1,14 @@
+{
+  "name": "task-traker-cli",
+  "version": "1.0.0",
+  "description": "This is a Task Traking CLI app who store task add task delte task pdtae task ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhay Prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.0.0"
+  }
+}
